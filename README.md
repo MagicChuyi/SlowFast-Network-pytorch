@@ -16,7 +16,7 @@ dataset(e.g. UCF-101)
 ```
 
 2. Modify the params in config.py and `mode` of `train_dataloader` or `val_dataloader` in train.py.   
-
+!data/ava.gif
 ## Requirements
 python 3  
 PyTorch >= 0.4.1  
