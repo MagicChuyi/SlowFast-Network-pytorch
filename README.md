@@ -13,9 +13,9 @@ We also complete a real-time action detection demo. The demo is orgnized as：
      SlowFast Network
  ```
 ## Display the demo results
-![](data/ava.gif)
+![](data/ava.gif)          |  ![](data/saveVideo.gif)
+:-------------------------:|:-------------------------:
 
-![](data/saveVideo.gif)
 
 ![](data/saveVideo2.gif)
 
