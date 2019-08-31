@@ -12,12 +12,12 @@ We also complete a real-time action detection demo. The demo is orgnized as：
             │ 
      SlowFast Network
  ```
-##Display the demo results
+## Display the demo results
 ![](data/ava.gif)
 ![](data/savevideo.gif)
 ![](data/savevideo2.gif)
 
-##Run the demo on your own data
+## Run the demo on your own data
 1.Clone the repository
 ```bash
 git clone https://github.com/MagicChuyi/SlowFast-Network-pytorch.git
