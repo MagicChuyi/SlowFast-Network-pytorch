@@ -15,12 +15,8 @@ We also complete a real-time action detection demo. The demo is orgnized as：
 ## Display the demo results
 ![](data/ava.gif)          |
 :-------------------------:|
-
 ![](data/saveVideo.gif)    |
-:-------------------------:|
-
 ![](data/saveVideo2.gif)   |
-:-------------------------:|
 
 
 ## Run the demo on your own data
